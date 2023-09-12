@@ -8,7 +8,7 @@
 4. Adăugați și comiteți fișierul proaspăt creat, respectând standardul pentru mesajul commit-ului `Adding <numele_tau>.md`
 5. _Împingeți ramura la depozitul remote_ (push to remote repository)
 
-PS: don't forget to add it in the <your-content-goes-here> folder.
+PS: nu uita să faci push în folderul <your-content-goes-here>.
 
 ## EN
 
@@ -18,4 +18,4 @@ PS: don't forget to add it in the <your-content-goes-here> folder.
 4. Add and commit you freshly created file respecting this standard for the commit message `Adding <your_name>.md`
 5. Push the branch
 
-PS: nu uita să faci push în fodlerul <your-content-goes-here>.
+PS: don't forget to add it in the <your-content-goes-here> folder.
